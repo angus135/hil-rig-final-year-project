@@ -1,0 +1,12 @@
+[submodule "hil-rig-mcu-firmware"]
+	path = hil-rig-mcu-firmware
+	url = https://github.com/angus135/hil-rig-mcu-firmware
+[submodule "hil-rig-python-api"]
+	path = hil-rig-python-api
+	url = https://github.com/angus135/hil-rig-python-api
+[submodule "hil-rig-protocol"]
+	path = hil-rig-protocol
+	url = https://github.com/angus135/hil-rig-protocol
+[submodule "hil-rig-hardware"]
+	path = hil-rig-hardware
+	url = https://github.com/angus135/hil-rig-hardware
